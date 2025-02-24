@@ -5,6 +5,6 @@
 #activemq
 #rmohr/activemq:latest
 #redis
-nacos
+nacos/nacos-server:2.0.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
