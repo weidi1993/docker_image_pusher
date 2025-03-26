@@ -7,6 +7,10 @@
 #redis
 #nacos/nacos-server:v2.0.4
 #alpine:latest
-postgres:latest
+#postgres:latest
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+
+
+openjdk:17-jre-slim
