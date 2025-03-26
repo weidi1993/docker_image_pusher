@@ -13,4 +13,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-openjdk:17-jre-slim
+openjdk:8-jre-sli
