@@ -15,4 +15,4 @@
 
 #openjdk:17-jdk
 #rabbitmq:3.12
-registry.cn-hangzhou.aliyuncs.com/openjdk/openjdk:21-jdk-slim
+openjdk/openjdk:21-jdk-slim
